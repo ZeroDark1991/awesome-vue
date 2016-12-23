@@ -285,7 +285,8 @@
   - [Vue route ★73](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
   - [**voie ★130**](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
   - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
-
+  - [vue-update](https://github.com/ZeroDark1991/vue-update) - Provides extra hook for data-updating by @ZeroDark1991
+  
 - #### Ajax/Data
 
   - [**vue-resource ★1,761**](https://github.com/vuejs/vue-resource) - AJAX/Resource plugin maintained by the [PageKit](http://pagekit.com/) team. <sup>1.0 compatible</sup>
